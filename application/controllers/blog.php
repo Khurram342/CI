@@ -3,7 +3,7 @@ class Blog extends CI_Controller
 {
     public function index()
     {
-        echo"this is index function of blog controller";
+        echo"this is index function of blog controllers";
     }
 
     public function add()
